@@ -10,14 +10,10 @@ Teste de pull request
 </br>
 
 ![image](https://user-images.githubusercontent.com/39166422/188208476-57ab4f27-bad6-4ced-93d2-31e8429efaab.png)
-#   J S C a l c u l a t o r 
+
  
- #   J S C a l c u l a t o r 
+
  
- #   J S C a l c u l a t o r 
  
- #   J S C a l c u l a t o r 
- 
- #   J S C a l c u l a t o r 
  
  
